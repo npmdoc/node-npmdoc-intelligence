@@ -1,4 +1,7 @@
-# api documentation for  [intelligence (v0.1.1)](http://sherlock92.github.io/intelligence/)  [![npm package](https://img.shields.io/npm/v/npmdoc-intelligence.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-intelligence) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-intelligence.svg)](https://travis-ci.org/npmdoc/node-npmdoc-intelligence)
+# npmdoc-intelligence
+
+#### basic api documentation for  [intelligence (v0.1.1)](http://sherlock92.github.io/intelligence/)  [![npm package](https://img.shields.io/npm/v/npmdoc-intelligence.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-intelligence) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-intelligence.svg)](https://travis-ci.org/npmdoc/node-npmdoc-intelligence)
+
 #### Machine learning library written in javascript
 
 [![NPM](https://nodei.co/npm/intelligence.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/intelligence)
@@ -68,7 +71,8 @@
         "documentation": "jsdoc -r -c ./conf.json -d ./documentation src",
         "test": "nodeunit tests"
     },
-    "version": "0.1.1"
+    "version": "0.1.1",
+    "bin": {}
 }
 ```
 
